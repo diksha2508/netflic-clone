@@ -1,2 +1,2 @@
 # netflic-clone
-project with html and css. It is a responsive clone of the ui of netflix.
+project with html and css. It is the clone of the ui of netflix.
